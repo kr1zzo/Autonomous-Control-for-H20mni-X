@@ -1,0 +1,15 @@
+*.*
+!.gitignore
+
+!prakticni/*.slx
+!prakticni/*.m
+!*.slx
+!*.m
+
++bus_conv_fcns
+slprj
+
+reg*
+!regulator.m
+
+!*.pdf
