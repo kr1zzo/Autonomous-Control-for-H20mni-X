@@ -14,7 +14,7 @@ algoritmi za navođenje i kontrolu (NGC) za pomorska vozila. Projekt se sastoji 
 
 ### Za demosntraciju rada simulacijskog dijela potrebno je pokrenuti:
 
-1. Za učitavanje potrebnih pomoćnih biblioteka
+1. Za učitavanje potrebnih biblioteka
 ```
 MarineRoboticsLib.slx
 ```
