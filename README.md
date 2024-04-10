@@ -57,5 +57,5 @@ Enio Krizman  | [@kr1zzo](https://github.com/kr1zzo) | enio.krizman@fer.hr
 Academic title | Lecturer
 | :--- | :---: 
 Doc. Dr. Sc. | Đula Nađ  
-Prof Dr. Sc. | Nikola Mišković 
+Prof. Dr. Sc. | Nikola Mišković 
 
