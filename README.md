@@ -12,15 +12,16 @@ guidance and control (NGC) algorithms for H20mni-x maritime robot. H20mni-X is a
 * PI heading controller - the heading controller needed to control the angle of the H2OmniX
 * PID positioning controller - controller for placing the H2OmniX at the desired location in the pool.
 
+#### Seminar Documentation can be found in the `Documentation/Seminar - Simulaton and Practical parts.pdf` file
 ## Execution
 
-In the `Simulation` and `Matlab` run the following files:
+In the `Simulation` and `Matlab` run the following files from the `Simulation` folder:
 
-1. Load the required libraries with :
+### 1. Load the required libraries with :
 ```
 MarineRoboticsLib.slx
 ```
-2. Input of desired position (x,y,yaw) and call the regulator parameters
+### 2. Input of desired position (x,y,yaw) and regulator parameters
 ```
 Regulator.m
 ```
@@ -29,12 +30,15 @@ Regulator.m
 main.slx
 ```
 
+<img src="Documentation/simulink.png" alt="drawing" width="1000"/>
+
 ## Results
 
 The results can be found in the `Documentation/seminar.pdf` report.
+
 //TODO: translate the report to English
 
-
+<img src="Documentation/practicum.gif" />
 
 ## Credits
 
