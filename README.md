@@ -4,6 +4,13 @@
 
 The goal of the project is the implementation of the navigation design process,
 guidance and control (NGC) algorithms for H20mni-x maritime robot. H20mni-X is an autonomous surface vehicle (ASV) that weighs about 20 kg and is placed in a pool that is monitored by localization cameras. H20mniX contains sensors such as a magnetometer and accelerometer and is equipped with ROS system for communication with Simulink model. The project consists of a simulation and a practical part.
+<p align="center">
+<img src="Documentation/h20mnix.png" alt="drawing" width="200"/>
+<p align="center">
+Figure : H20mni-X
+</p>
+
+#### Seminar Documentation can be found in the `Documentation/Seminar - Simulaton and Practical parts.pdf` file
 
 ## Implementation order
 
@@ -12,7 +19,7 @@ guidance and control (NGC) algorithms for H20mni-x maritime robot. H20mni-X is a
 * PI heading controller - the heading controller needed to control the angle of the H2OmniX
 * PID positioning controller - controller for placing the H2OmniX at the desired location in the pool.
 
-#### Seminar Documentation can be found in the `Documentation/Seminar - Simulaton and Practical parts.pdf` file
+
 ## Execution
 
 In the `Simulation` and `Matlab` run the following files from the `Simulation` folder:
