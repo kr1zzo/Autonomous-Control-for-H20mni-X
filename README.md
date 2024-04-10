@@ -6,6 +6,7 @@ The goal of the project is the implementation of the navigation design process,
 guidance and control (NGC) algorithms for H20mni-x maritime robot. H20mni-X is an autonomous surface vehicle (ASV) that weighs about 20 kg and is placed in a pool that is monitored by localization cameras. H20mniX contains sensors such as a magnetometer and accelerometer and is equipped with ROS system for communication with Simulink model. The project consists of a simulation and a practical part.
 <p align="center">
 <img src="Documentation/h20mnix.png" alt="drawing" width="200"/>
+</p>
 <p align="center">
 Figure : H20mni-X
 </p>
@@ -60,6 +61,8 @@ Contributors names and contact info
 Author|GitHub | e-mail
 | :--- | :---: | :---:
 Enio Krizman  | [@kr1zzo](https://github.com/kr1zzo) | enio.krizman@fer.hr
+Pero Drobac  | [@PeteHeat08](https://github.com/PeteHeat08) | pero.drobac@fer.hr
+Lovre Grašo  | [@lovregraso](https://github.com/lovregraso) | lovre.graso@fer.hr
 
 Academic title | Lecturer
 | :--- | :---: 
