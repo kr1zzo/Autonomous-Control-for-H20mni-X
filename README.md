@@ -1,5 +1,7 @@
 # Navigation and control of [H20mni-X](https://labust.fer.hr/labust/about/equipment/h2omni-x) maritime robot
 
+## Project Description
+
 ### Course : [Marine Robotics](https://www.fer.unizg.hr/en/course/marrob)
 
 The goal of the project is the implementation of the navigation design process,
